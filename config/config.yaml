@@ -1,0 +1,8 @@
+openai_api_key: "your-openai-key"
+db_path: "sql_data/ecommerce.db"
+faiss_index_path: "vector_db/sql_data_index.faiss"
+plot_keywords: ["plot", "generate", "chart", "graph", "visualize"]
+sql_keywords: ["top", "filter", "list", "table", "count", "average", "all", "samples", "range", "query", "sql", "do we have"]
+prompt_file_path: "prompt.txt"
+model_name: "all-MiniLM-L6-v2"
+llm_model_name: "gpt-4o"
